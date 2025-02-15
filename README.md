@@ -1,5 +1,8 @@
 # AF3005_ProgrammingForFinance
-# AF3005_ProgrammingForFinance
+
+
+
+
 
 This project is an automated financial management system for SecureBank, developed as part of the Programming for Finance course. The system covers five key financial functionalities, each implemented using Python and `ipywidgets` for interactivity.
 
